@@ -1,0 +1,9 @@
+---
+# tasks file for backup-sw-config
+- name: Making backup
+  ios_config:
+    backup: yes
+    backup_options:
+      dir_path: "insert_here_file_path"
+    save_when: modified
+...

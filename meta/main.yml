@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Vinicius A Santos // Github vinealvees
+  description: With this role you can perform backup of the configurations of your Cisco equipments with IOS.
+  license: license (GPL-2.0-or-later, MIT, etc)
+  min_ansible_version: 2.9
+  galaxy_tags:
+    cisco
+    ios
+    switch
+    backup
+    configuration
+    save

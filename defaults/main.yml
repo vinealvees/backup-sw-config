@@ -1,0 +1,7 @@
+---
+# defaults file for backup-sw-config
+ansible_connection: network_cli
+ansible_network_os: ios 
+ansible_user: user
+ansible_ssh_pass: password
+...
